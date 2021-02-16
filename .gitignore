@@ -1,0 +1,5 @@
+*.csproj
+*.unityproj
+
+/[Ll]ibrary/
+/[Oo]bj/

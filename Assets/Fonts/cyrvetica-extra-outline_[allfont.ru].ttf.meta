@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b258d655f0b8ae248aed5c377660010a
+timeCreated: 1514119084
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyrvetica Extra Outline
+  fontNames:
+  - Cyrvetica Extra Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

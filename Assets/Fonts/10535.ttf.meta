@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5a4f308b4a53dd1459ec12089add5862
+timeCreated: 1512295915
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Prestige-Roman
+  fontNames:
+  - Prestige-Roman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
